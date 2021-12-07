@@ -1,4 +1,4 @@
-![header](imgs/header.jpg){:height="10" width="100"}
+![header](imgs/header.jpg){:height="36px" width="36px"}
 
 # AlphaFold
 
