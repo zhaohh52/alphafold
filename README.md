@@ -1,5 +1,5 @@
-![header](imgs/header.jpg){:height="36px" width="36px"}.
-
+![header](imgs/header.jpg){:height="36px" width="36px"}
+<div align=center><img width="150" height="150" src="https://github.com/zhaohh52/alphafold/blob/main/imgs/header.jpg"/></div>
 # AlphaFold
 
 This package provides an implementation of the inference pipeline of AlphaFold
