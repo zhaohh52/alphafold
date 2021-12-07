@@ -1,4 +1,4 @@
-![header](imgs/header.jpg =100x100)
+![header](imgs/header.jpg)
 
 # AlphaFold
 
